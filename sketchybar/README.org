@@ -1,0 +1,13 @@
+#+title: Sketchybar config
+
+This is my very basic [[https://felixkratz.github.io/SketchyBar/][SketchyBar]] configuration.
+It is minimal and close to the default while still being pretty and functional.
+
+** Features
+- Toggle appearance using ~osascript~
+- Wifi dropdown with SSID and speed
+- Battery level
+- Date and time
+- Spaces
+- Window title
+- Native look using SF Symbols and the SF Mono font.
